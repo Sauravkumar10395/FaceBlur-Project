@@ -2,7 +2,7 @@ Face Blur using OpenCV
 
 This project uses OpenCV to detect human faces from a webcam feed and automatically blur them in real time. If no face is detected, it displays a message "No Face Found!" on the screen.
 
-🚀 Features
+ Features
 
 Captures live video from your webcam
 
@@ -14,7 +14,7 @@ Displays "No Face Found!" when no face is detected
 
 Press q to exit the application
 
-📋 Requirements
+ Requirements
 
 Make sure you have the following installed:
 
@@ -31,7 +31,7 @@ pip install opencv-python
 
 pip install opencv-contrib-python
 
-▶️ How to Run
+ How to Run
 
 Clone this repository or copy the code into a file, e.g. face_blur.py
 
